@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom'
 import {playlists} from './playlists';
 import SpecificPlaylist from './Playlist';
-import './index.css'
+import './bootstrap.css'
 
 function App() {
   return (
